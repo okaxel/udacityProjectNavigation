@@ -24,7 +24,7 @@ The task is episodic, and in order to solve the environment, your agent must get
 
 ## 3. My solution
 
-You cen find a report about my solution in details in the `Navigation.html` file.
+You cen find a report about my solution in details in the `Report.html` file.
 
 If you want to run my solution on your machine or at any place in that cloudy world `Navigation.ipynb` is the file you're searching for.
 
@@ -55,3 +55,11 @@ If you want to see how parameters change the learning process you're welcome to 
 👍 + ❤
 
 [Take a Nanodegree and have fun](https://www.udacity.com/nanodegree)
+
+## 5. What to expect?
+
+I'll add a notebook where I'll try to make an Agent which completes a whole episode wiht scores not lower than 13.
+
+I'll add the visual solution as well.
+
+I hope I'll add both soon.
