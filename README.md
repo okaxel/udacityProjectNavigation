@@ -50,16 +50,19 @@ If you want to test my solution you can run anything but part `3.7`.
 
 If you want to see how parameters change the learning process you're welcome to play with the numbers in section `3.2`.
 
-## 4. Still reading?
+## 4. Improvement ideas
 
-👍 + ❤
+There are several ways to imporve the performance of an Agent with the Banana Environment. I'll plan to implement all of them.
 
-[Take a Nanodegree and have fun](https://www.udacity.com/nanodegree)
+### 4.1. Prioritized Experience Replay
 
-## 5. What to expect?
+Implementing Prioritized Experience Replay seems to be a good idea in the near future since it helps to improve the performance and significantly reduces the training time. I'll try it out.
 
-I'll add a notebook where I'll try to make an Agent which completes a whole episode wiht scores not lower than 13.
+### 4.2. Rainbow
 
-I'll add the visual solution as well.
+As the name might suggest, Rainbow is a mixed kind of network. It is actually a DQN based off-policy deep reinforcement learning algorithm with several improvements. Currently, it is the state-of-the-art algorithm mostly used on ATARI games but it definitely worths a try.
 
-I hope I'll add both soon.
+### 4.3. Visual aproach
+
+The source repository itself cntains a notebook with the beginning code of implementing a visual aproach for this problem. I'm sure it also worths a try since visual aproaches are more robust ways if we think about it from a more general perspective.
+
