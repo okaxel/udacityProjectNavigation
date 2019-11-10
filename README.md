@@ -42,11 +42,11 @@ If you want to jump right into the origins of the project `Navigation_Original.i
 
     (_For AWS_) If you'd like to train the agent on AWS (and have not [enabled a virtual screen](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Training-on-Amazon-Web-Service.md)), then please use [this link](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Linux_NoVis.zip) to obtain the environment.
 
-### 3.3. Try the solution
+### 3.2. Try the solution
 
 If you want to test my solution you can run anything but part `3.7`.
 
-### 3.4. Play around
+### 3.3. Play around
 
 If you want to see how parameters change the learning process you're welcome to play with the numbers in section `3.2`.
 
@@ -62,7 +62,7 @@ Implementing Prioritized Experience Replay seems to be a good idea in the near f
 
 As the name might suggest, Rainbow is a mixed kind of network. It is actually a DQN based off-policy deep reinforcement learning algorithm with several improvements. Currently, it is the state-of-the-art algorithm mostly used on ATARI games but it definitely worths a try.
 
-### 4.3. Visual aproach
+### 4.3. Visual approach
 
-The source repository itself cntains a notebook with the beginning code of implementing a visual aproach for this problem. I'm sure it also worths a try since visual aproaches are more robust ways if we think about it from a more general perspective.
+The source repository itself cntains a notebook with the beginning code of implementing a visual approach for this problem. I'm sure it also worths a try since visual approaches are more robust ways if we think about it from a more general perspective.
 
