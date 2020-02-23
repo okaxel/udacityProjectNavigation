@@ -2,7 +2,7 @@
 
 ## 1. Introduction
 
-The goal of this project is to solve the Banana Environment. In fact it means you have to collect as many yellow bananas as you can while you have to avoid to collect blue ones.
+The goal of this project is to solve the Banana Environment of OpenAIGym. In fact it means you have to collect as many yellow bananas as you can while you have to avoid to collect blue ones.
 
 This short animation below shows how it goes in practice.
 
